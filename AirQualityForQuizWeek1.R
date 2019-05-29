@@ -1,4 +1,5 @@
-setwd("C:/Users/Office/Documents/RCourse/Week1")
+## setwd("C:/Users/Office/Documents/RCourse/Week1")
+setwd("M:/Documents/RCourse/Week1")
 ## This week 1 quiz uses the Air Quality dataset
 ## 1. Read the data
 data<-read.csv("hw1_data.csv")
